@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.fruits-counter-bg-container {
+  background-color: #ffd569;
+  display: flex;
+  padding: 10px;
+}
+.fruits-counter-container {
+  background-color: #ffffff;
+  padding: 10px;
+  flex-direction: column;
+  margin: 20px;
+  border-radius: 10px;
+}
+.fruits-counter-heading {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Roboto';
+  margin-bottom: 40px;
+}
+.mango-img {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+.fruit-count-color {
+  color: #ffd569;
+}
+.fruit-button {
+  color: #ffffff;
+  background-color: #007bff;
+  font-size: 8px;
+  font-family: 'Roboto';
+}
+.banana-img {
+  height: 200px;
+  width: 200px;
+}
